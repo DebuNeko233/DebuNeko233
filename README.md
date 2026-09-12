@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DebuNeko233;
-- 👀 I’m interested in developing;
-- 🌱 I’m currently learning Java&C;
+- 👀 I’m interested in developing program;
 - 💞️ I’m looking to collaborate on abaabaaba;
 - 📫 How to reach me ,no;
 
